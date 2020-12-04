@@ -3,7 +3,7 @@ Web | Embedded | Mobile App Developer
 ```
 
 ### Hi there 👋👋
-* [Visit my portfolio](https://thomasleong.gitbook.io)
+* Visit my [portfolio](https://thomasleong.gitbook.io)
 * Check out my small projects below ↓↓
 
 
