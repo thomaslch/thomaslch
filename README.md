@@ -1,5 +1,5 @@
 ### Hi there 👋👋
-I am a __full-stack && embedded system__ developer pursuring BSc Computer Science at [CUHK](https://www.cuhk.edu.hk)
+I am a __backend and platform__ engineer with a BSc Computer Science at [CUHK](https://www.cuhk.edu.hk) 
 
 ### You may want to 
 * Visit my [portfolio](https://thomasleong.gitbook.io)
