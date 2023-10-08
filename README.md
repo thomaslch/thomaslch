@@ -2,7 +2,7 @@
 I am a __backend and platform__ engineer with a BSc Computer Science at [CUHK](https://www.cuhk.edu.hk) 
 
 ### You may want to 
-* Visit my [portfolio](https://thomasleong.gitbook.io)
+* Visit my [portfolio](https://thomasleong.gitbook.io/?utm_source=github&utm_medium=social&utm_campaign=hire+me+2023&utm_content=hero)
 * Check out my public projects below ↓↓
 
 
